@@ -1,2 +1,0 @@
-# ohms
-ohms law calculator
